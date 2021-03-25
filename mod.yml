@@ -1,0 +1,33 @@
+title: Mourning Woody Mod
+originalAuthor: TomK1004
+description: After having seemingly lost sight of Andy, Woody makes an oath to return to him
+assets:
+ - name: obj/H_HB550.mdlx
+   method: copy
+   source:
+    - name: mod-files/obj/H_HB550.mdlx
+    
+ - name: obj/N_HB550_BOSS.mdlx
+   method: copy
+   source:
+    - name: mod-files/obj/N_HB550_BOSS.mdlx
+    
+ - name: obj/N_HB550_BTL.mdlx
+   method: copy
+   source:
+    - name: mod-files/obj/N_HB550_BTL.mdlx
+
+ - name: obj/N_HB550_BTL2.mdlx
+   method: copy
+   source:
+    - name: mod-files/obj/N_HB550_BTL2.mdlx
+
+ - name: obj/N_HB550_RTN.mdlx
+   method: copy
+   source:
+    - name: mod-files/obj/N_HB550_RTN.mdlx
+    
+ - name: obj/N_HB550_STAND_RTN.mdlx
+   method: copy
+   source:
+    - name: mod-files/obj/N_HB550_STAND_RTN.mdlx
